@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <RootNamespace>Landis.Extension.SOSIELHarvest</RootNamespace>
@@ -25,7 +25,11 @@
     <FileVersion>1.2.0</FileVersion>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
     <LangVersion>7</LangVersion>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath> ..\..\build\extensions</OutputPath>
+  </PropertyGroup>  
 
   <ItemGroup>
     <PackageReference Include="CsvHelper" Version="12.2.3" />
