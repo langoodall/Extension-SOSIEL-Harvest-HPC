@@ -47,22 +47,22 @@
       <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.BiomassCohorts-v3.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.BiomassHarvest-v3">
-      <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.BiomassHarvest-v3.dll</HintPath>
+      <HintPath>lib\Support-Library-Dlls-v7\Landis.Library.BiomassHarvest-v3.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.Cohorts-v2">
       <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.Cohorts-v2.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.HarvestManagement-v4">
-      <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.HarvestManagement-v4.dll</HintPath>
+      <HintPath>..\..\Support-Library-Dlls-v8\Landis.Library.HarvestManagement-v4.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.SiteHarvest-v2">
-      <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.SiteHarvest-v2.dll</HintPath>
+      <HintPath>..\..\Support-Library-Dlls-v8\Landis.Library.SiteHarvest-v2.dll</HintPath>
     </Reference>
-    <Reference Include="Landis.Library.Succession-v8">
-      <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.Succession-v8.dll</HintPath>
+    <Reference Include="Landis.Library.Succession-v9">
+      <HintPath>..\..\Support-Library-Dlls-v8\Landis.Library.Succession-v9.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Extension.BiomassHarvest-v4">
-      <HintPath>C:\Program Files\LANDIS-II-v7\extensions\Landis.Extension.BiomassHarvest-v4.dll</HintPath>
+      <HintPath>..\..\Support-Library-Dlls-v8\Landis.Library.BiomassHarvest-v4.dll</HintPath>
     </Reference>
     <Reference Include="SOSIEL-v3">
       <HintPath>C:\Program Files\LANDIS-II-v7\extensions\SOSIEL-v3.dll</HintPath>
