@@ -46,9 +46,6 @@
     <Reference Include="Landis.Library.BiomassCohorts-v3">
       <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.BiomassCohorts-v3.dll</HintPath>
     </Reference>
-    <Reference Include="Landis.Library.BiomassHarvest-v3">
-      <HintPath>lib\Support-Library-Dlls-v7\Landis.Library.BiomassHarvest-v3.dll</HintPath>
-    </Reference>
     <Reference Include="Landis.Library.Cohorts-v2">
       <HintPath>..\..\Support-Library-Dlls-v7\Landis.Library.Cohorts-v2.dll</HintPath>
     </Reference>
