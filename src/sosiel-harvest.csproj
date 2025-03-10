@@ -50,7 +50,7 @@
       <HintPath>../../Support-Library-Dlls-v7/Landis.Library.Cohorts-v2.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.HarvestManagement-v4">
-      <HintPath>../../Support-Library-Dlls-v8/Landis.Library.HarvestManagement-v4.dll</HintPath>
+      <HintPath>lib/Landis.Library.HarvestManagement-v4.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.SiteHarvest-v2">
       <HintPath>../../Support-Library-Dlls-v8/Landis.Library.SiteHarvest-v2.dll</HintPath>
