@@ -55,6 +55,9 @@
     <Reference Include="Landis.Library.HarvestManagement-v4">
       <HintPath>../../Support-Library-Dlls-v8/Landis.Library.HarvestManagement-v4.dll</HintPath>
     </Reference>
+    <Reference Include="Landis.Library.UniversalCohorts-v1">
+      <HintPath>../../Support-Library-Dlls-v8/Landis.Library.UniversalCohorts-v1.dll</HintPath>
+    </Reference>
     <Reference Include="Landis.Library.SiteHarvest-v2">
       <HintPath>../../Support-Library-Dlls-v8/Landis.Library.SiteHarvest-v2.dll</HintPath>
     </Reference>
