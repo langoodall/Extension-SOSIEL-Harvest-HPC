@@ -58,7 +58,7 @@
     <Reference Include="Landis.Library.Succession-v9">
       <HintPath>../../Support-Library-Dlls-v8/Landis.Library.Succession-v9.dll</HintPath>
     </Reference>
-    <Reference Include="Landis.Extension.BiomassHarvest-v4">
+    <Reference Include="Landis.Library.BiomassHarvest-v4">
       <HintPath>../../Support-Library-Dlls-v7/Landis.Library.BiomassHarvest-v4.dll</HintPath>
     </Reference>
     <Reference Include="SOSIEL-v3">
