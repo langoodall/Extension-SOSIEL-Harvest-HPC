@@ -81,7 +81,9 @@
     </None>
   </ItemGroup>
 
+  <!--
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="$(ProjectDir)postbuild.bat $(Configuration)" />
+    <Exec Command="/Core-Model-v7-LINUX-7/Extension-SOSIEL-Harvest-HPC-1.0/src/postbuild.bat Release" />
   </Target>
+  -->
 </Project>
