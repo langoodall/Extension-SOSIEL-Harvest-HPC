@@ -67,7 +67,7 @@
     <Reference Include="Landis.Extension.BiomassHarvest-v4">
       <HintPath>../../Support-Library-Dlls-v7/Landis.Extension.BiomassHarvest-v4.dll</HintPath>
     </Reference>
-    <Reference Include="SOSIEL-v3">
+    <Reference Include="SOSIEL-v2.4.5">
       <HintPath>../../Support-Library-Dlls-v7/SOSIEL-v2.4.5.dll</HintPath>
     </Reference>
     <Reference Include="SOSIEL.VBGP">
